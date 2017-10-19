@@ -1,4 +1,4 @@
-# GroupConsoleDashboard
+# Group Console - Dashboard
 Consolidated merchandising reports for planning and analysis
 
 * High level summary of KPIs
